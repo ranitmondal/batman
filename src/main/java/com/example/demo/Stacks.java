@@ -2,7 +2,7 @@ package com.example.demo;
 
 import java.util.Stack;
 
-class Main {
+public class Stacks {
     public static void main(String[] args) {
         Stack<String> myStack = new Stack<String>();
 
